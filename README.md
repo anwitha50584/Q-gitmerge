@@ -1,0 +1,2 @@
+# Q-gitmerge
+merging conflicts
